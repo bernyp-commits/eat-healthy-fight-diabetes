@@ -1,0 +1,10 @@
+{
+  "name": "eat-healthy-fight-diabetes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eat Healthy Fight Diabetes (EHFD) website — static site hosted on Cloudflare Pages.",
+  "packageManager": "yarn@4.5.0",
+  "scripts": {
+    "build": "echo 'Static site — no build step required.'"
+  }
+}
